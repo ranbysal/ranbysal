@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sal Ismail profile banner</title>
+  <desc id="desc">Computer Science, software engineering, and technical analysis.</desc>
+  <style>
+    .surface { fill: #f6f8fa; }
+    .border { fill: none; stroke: #d0d7de; }
+    .primary { fill: #0d1117; }
+    .secondary { fill: #57606a; }
+    .line { fill: none; stroke: #afb8c1; }
+    .node { fill: #ffffff; stroke: #8c959f; }
+    .accent { fill: #0969da; }
+    @media (prefers-color-scheme: dark) {
+      .surface { fill: #0d1117; }
+      .border { stroke: #30363d; }
+      .primary { fill: #f0f6fc; }
+      .secondary { fill: #8b949e; }
+      .line { stroke: #484f58; }
+      .node { fill: #161b22; stroke: #6e7681; }
+      .accent { fill: #58a6ff; }
+    }
+  </style>
+
+  <rect class="surface" x="1" y="1" width="1198" height="318" rx="22"/>
+  <rect class="border" x="1" y="1" width="1198" height="318" rx="22"/>
+
+  <text class="secondary" x="62" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="600" letter-spacing="2.4">SAL ISMAIL / PROFILE</text>
+  <text class="primary" x="58" y="151" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="72" font-weight="750" letter-spacing="-3">Building useful systems.</text>
+  <text class="secondary" x="62" y="203" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="500">Computer Science · Software Engineering · Technical Analysis</text>
+
+  <rect class="accent" x="62" y="246" width="54" height="5" rx="2.5"/>
+  <text class="secondary" x="132" y="255" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="1.5">ONTARIO, CANADA</text>
+
+  <path class="line" d="M870 67 H1030 V111 H1125" stroke-width="2"/>
+  <path class="line" d="M824 160 H945 V111" stroke-width="2"/>
+  <path class="line" d="M945 160 H1082 V230 H1140" stroke-width="2"/>
+  <path class="line" d="M870 252 H1001 V203 H1082" stroke-width="2"/>
+  <circle class="node" cx="870" cy="67" r="9" stroke-width="2"/>
+  <circle class="node" cx="1030" cy="111" r="9" stroke-width="2"/>
+  <circle class="node" cx="1125" cy="111" r="9" stroke-width="2"/>
+  <circle class="node" cx="824" cy="160" r="9" stroke-width="2"/>
+  <circle class="accent" cx="945" cy="160" r="9"/>
+  <circle class="node" cx="1082" cy="230" r="9" stroke-width="2"/>
+  <circle class="node" cx="1140" cy="230" r="9" stroke-width="2"/>
+  <circle class="node" cx="870" cy="252" r="9" stroke-width="2"/>
+  <circle class="node" cx="1001" cy="203" r="9" stroke-width="2"/>
+</svg>
