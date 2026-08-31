@@ -16,6 +16,12 @@ My work focuses on understanding complex systems, designing reliable solutions, 
 
 ## Selected Work
 
+### 🔎 [Tracepoint](https://github.com/ranbysal/tracepoint)
+
+An AI support incident console for diagnosing API failures, normalizing request telemetry, and producing evidence-backed technical escalations. Includes a live OpenAI Responses API probe, deterministic incident classification, synthetic failure scenarios, and Python triage tooling.
+
+**Focus:** TypeScript · Next.js · Python · OpenAI API · HTTP · Incident Triage · Support Automation
+
 ### ⚡ Voltis
 
 A real-time futures analysis workspace combining interactive charting, market-data services, technical analysis tools, and cloud-based workflows.
