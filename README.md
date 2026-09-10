@@ -16,6 +16,14 @@ My work focuses on understanding complex systems, designing reliable solutions, 
 
 ## Selected Work
 
+### [CANAGI](https://www.canagi.me/)
+
+An interactive Canadian labour market explorer covering 516 occupations. Compare careers and career fields, filter by pay and training requirements, and explore employment, projected labour shortages, and experimental AI exposure estimates through interactive treemaps. Includes official source references and occupation-level evidence behind the estimates.
+
+**Focus:** React · TypeScript · Python · Data Visualization · Labour Market Data · Vercel
+
+[Live site](https://www.canagi.me/) · [Source code](https://github.com/ranbysal/CANAGI)
+
 ### 🔎 [Tracepoint](https://github.com/ranbysal/tracepoint)
 
 An AI support incident console for diagnosing API failures, normalizing request telemetry, and producing evidence-backed technical escalations. Includes a live OpenAI Responses API probe, deterministic incident classification, synthetic failure scenarios, and Python triage tooling.
