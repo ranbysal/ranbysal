@@ -36,18 +36,6 @@ A real-time futures analysis workspace combining interactive charting, market-da
 
 **Focus:** TypeScript · Next.js · Python · APIs · WebSockets · System Design
 
-### 📊 Futures Signal Engine
-
-A deterministic Python market-analysis system that processes live and historical data, evaluates strategies, manages signal states, and delivers automated alerts.
-
-**Focus:** Python · Data Processing · Automation · Testing · Event-Driven Systems
-
-### 🌐 Personal Portfolio
-
-A custom production portfolio designed to showcase experience, projects, and technical capabilities through a polished user experience.
-
-**Focus:** React · Vite · Frontend Engineering · UI Systems · Deployment
-
 ### 🧪 Nuvamin Platform
 
 A full-stack commerce platform featuring backend workflows, order management, transactional systems, and operational tooling.
