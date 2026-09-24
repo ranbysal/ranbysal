@@ -24,23 +24,27 @@ An interactive Canadian labour market explorer covering 516 occupations. Compare
 
 [Live site](https://www.canagi.me/) · [Source code](https://github.com/ranbysal/CANAGI)
 
-### 🔎 [Tracepoint](https://github.com/ranbysal/tracepoint)
+### [Tracepoint](https://github.com/ranbysal/tracepoint)
 
 An AI support incident console for diagnosing API failures, normalizing request telemetry, and producing evidence-backed technical escalations. Includes a live OpenAI Responses API probe, deterministic incident classification, synthetic failure scenarios, and Python triage tooling.
 
 **Focus:** TypeScript · Next.js · Python · OpenAI API · HTTP · Incident Triage · Support Automation
 
-### ⚡ Voltis
+[Source code](https://github.com/ranbysal/tracepoint)
 
-A real-time futures analysis workspace combining interactive charting, market-data services, technical analysis tools, and cloud-based workflows.
-
-**Focus:** TypeScript · Next.js · Python · APIs · WebSockets · System Design
-
-### 🧪 Nuvamin Platform
+### [Nuvamin Platform](https://nuvamin.bio/)
 
 A full-stack commerce platform featuring backend workflows, order management, transactional systems, and operational tooling.
 
 **Focus:** Node.js · Express · Redis · APIs · Backend Architecture
+
+[Live site](https://nuvamin.bio/) · [Source code](https://github.com/ranbysal/Nuvamin)
+
+### Voltis
+
+A real-time futures analysis workspace combining interactive charting, market-data services, technical analysis tools, and cloud-based workflows.
+
+**Focus:** TypeScript · Next.js · Python · APIs · WebSockets · System Design
 
 <br />
 
